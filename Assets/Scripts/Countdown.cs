@@ -7,12 +7,12 @@ public class Countdown : MonoBehaviour
 {
     public Text Counttext;
     public float Down = 4;
-
+    public GameObject kirby;
 
     // Start is called before the first frame update
     void Start()
     {
-    
+        kirby.GetComponent<KirbyController>().enabled = false;
     }
 
     // Update is called once per frame
@@ -35,6 +35,7 @@ public class Countdown : MonoBehaviour
         if(Down <= 1)
         {
             Counttext.text = "GO!";
+            kirby.GetComponent<KirbyController>().enabled = true;
         }
         if(Down <= 0)
         {

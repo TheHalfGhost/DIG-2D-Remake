@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 477f4f38a474d114fa5d467bdaa493db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5431684422337365742
+    second: kirby_sheet_scale_true_0
+  - first:
+      213: 1851845173346062825
+    second: kirby_sheet_scale_true_1
+  - first:
+      213: 6859248159473491366
+    second: kirby_sheet_scale_true_2
+  - first:
+      213: -6870382553128606289
+    second: kirby_sheet_scale_true_3
+  - first:
+      213: -6274732766454765242
+    second: kirby_sheet_scale_true_4
+  - first:
+      213: -6969246236839770876
+    second: kirby_sheet_scale_true_5
+  - first:
+      213: 3154255928352215730
+    second: kirby_sheet_scale_true_6
+  - first:
+      213: -3747119967149454741
+    second: kirby_sheet_scale_true_7
+  - first:
+      213: -5345471829092420151
+    second: kirby_sheet_scale_true_8
+  - first:
+      213: 6043846751763932273
+    second: kirby_sheet_scale_true_9
+  - first:
+      213: 5954292311357999897
+    second: kirby_sheet_scale_true_10
+  - first:
+      213: 2530869073027138347
+    second: kirby_sheet_scale_true_11
+  - first:
+      213: 5147772917532169290
+    second: kirby_sheet_scale_true_12
+  - first:
+      213: 6285096648639029672
+    second: kirby_sheet_scale_true_13
+  - first:
+      213: 2329830429094626893
+    second: kirby_sheet_scale_true_14
+  - first:
+      213: -1933557487942979065
+    second: kirby_sheet_scale_true_15
+  - first:
+      213: 6761033345368249763
+    second: kirby_sheet_scale_true_16
+  - first:
+      213: -5623684467959366557
+    second: kirby_sheet_scale_true_17
+  - first:
+      213: 5831629521639735120
+    second: kirby_sheet_scale_true_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2083
+        width: 328
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6017d2438316b40800000000000000
+      internalID: 5431684422337365742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2083
+        width: 365
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15058af5313b910800000000000000
+      internalID: 1851845173346062825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2083
+        width: 348
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5ba3fbd1f03f50800000000000000
+      internalID: 6859248159473491366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_3
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2083
+        width: 347
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56ab1087f77a0a0800000000000000
+      internalID: -6870382553128606289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2071
+        width: 444
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a5fa3bcbabe8a0800000000000000
+      internalID: -6274732766454765242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 328
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40500f4e873484f90800000000000000
+      internalID: -6969246236839770876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1666
+        width: 348
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29a1c0e0b26cb20800000000000000
+      internalID: 3154255928352215730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1632
+        width: 348
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a88433e3e8ffbc0800000000000000
+      internalID: -3747119967149454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_8
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1666
+        width: 374
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5b61661b111d5b0800000000000000
+      internalID: -5345471829092420151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 346
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a9cb599e00e350800000000000000
+      internalID: 6043846751763932273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1110
+        width: 348
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b455b5f45e1a250800000000000000
+      internalID: 5954292311357999897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1110
+        width: 348
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b230ec643047f1320800000000000000
+      internalID: 2530869073027138347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 346
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4491e5c130907740800000000000000
+      internalID: 5147772917532169290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 546
+        width: 348
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1a0212a16293750800000000000000
+      internalID: 6285096648639029672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_14
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 589
+        width: 375
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c4196e68355020800000000000000
+      internalID: 2329830429094626893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 328
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702bc5a85bf9a25e0800000000000000
+      internalID: -1933557487942979065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 365
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5de31910404dd50800000000000000
+      internalID: 6761033345368249763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 348
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c766e95c8a4f1b0800000000000000
+      internalID: -5623684467959366557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_scale_true_18
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 355
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7403172c1ee050800000000000000
+      internalID: 5831629521639735120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

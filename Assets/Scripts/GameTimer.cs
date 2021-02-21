@@ -10,6 +10,11 @@ public class GameTimer : MonoBehaviour
     public Text TimerText;
     float Timer = 0f;
 
+
+    void Start()
+    {
+        start = 3;
+    }
     void Update()
     {
         start -= Time.deltaTime;
@@ -25,5 +30,9 @@ public class GameTimer : MonoBehaviour
             string timerString = string.Format("{0:00:}{1:00:}{2:000}", minutes, seconds, milliseconds);
             TimerText.text = timerString;
         }
+        if (ScoreKeeper.winner == 1)
+            {
+                start = 999;
+            }
     }
 }
